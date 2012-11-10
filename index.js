@@ -28,6 +28,6 @@ var str = Object.prototype.toString;
  * @return {bool}
  */
 
-module.exports = function (val) {
+module.exports = isArray || function (val) {
   return !! val && '[object Array]' == str.call(val);
 };
