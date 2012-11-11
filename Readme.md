@@ -1,7 +1,7 @@
 
 # isArray
 
-  es5 isArray
+  isArray utility.
 
 ## Installation
 
