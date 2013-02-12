@@ -12,7 +12,7 @@ var isArray = Array.isArray;
 var str = Object.prototype.toString;
 
 /**
- * Wether or not the given `val`
+ * Whether or not the given `val`
  * is an array.
  *
  * example:
