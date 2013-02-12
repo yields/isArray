@@ -3,7 +3,7 @@
 </a>
 # isArray
 
-  isArray utility.
+  Check if the given `value` is an `Array`.
 
 ## Installation
 
